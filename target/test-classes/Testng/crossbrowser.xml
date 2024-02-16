@@ -1,0 +1,22 @@
+<suite name="cross browser">
+	<parameter name="uid" value="pavan" />
+	<parameter name="pwd" value="krishna" />
+	<test name="chromebrowser">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="Testng.CrossBrowser" />
+		</classes>
+	</test>
+	<test name="firefoxbrowser">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="Testng.CrossBrowser" />
+		</classes>
+	</test>
+	<test name="edgebrowser">
+		<parameter name="browser" value="edge" />
+		<classes>
+			<class name="Testng.CrossBrowser" />
+		</classes>
+	</test>
+</suite>

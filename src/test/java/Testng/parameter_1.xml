@@ -1,0 +1,10 @@
+<suite name="shopping">
+	<test name="shopping_example">
+		<parameter name="uid" value="mind q"/>
+		<parameter name="pwd" value="systems"/>
+		<classes>
+			<class name="Testng.Parameter1"/>
+		</classes>
+	</test>
+	
+</suite>

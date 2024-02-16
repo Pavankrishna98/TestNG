@@ -1,0 +1,20 @@
+<suite name="example">
+	<test name="example_test">
+		
+		<groups>
+			<run>
+				<exclude name="test"/>>
+			</run>
+		</groups>
+		
+		
+		
+		<classes>
+			<class name="Testng.Testng1">
+				<methods>
+					<exclude name="a15"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T11:48:36 IST" name="example2" finished-at="2024-02-16T11:48:36 IST" duration-ms="149">
+    <groups>
+      <group name="interview">
+        <method signature="Groups.interview()[pri:5, instance:Testng.Groups@6f01b95f]" name="interview" class="Testng.Groups"/>
+        <method signature="Groups.interview2()[pri:6, instance:Testng.Groups@6f01b95f]" name="interview2" class="Testng.Groups"/>
+        <method signature="Groups.interview3()[pri:6, instance:Testng.Groups@6f01b95f]" name="interview3" class="Testng.Groups"/>
+      </group> <!-- interview -->
+    </groups>
+    <test started-at="2024-02-16T11:48:36 IST" name="example_test2" finished-at="2024-02-16T11:48:36 IST" duration-ms="149">
+      <class name="Testng.Groups">
+        <test-method is-config="true" signature="a14()[pri:0, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="a14" finished-at="2024-02-16T11:48:36 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a14 -->
+        <test-method signature="interview()[pri:5, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="interview" finished-at="2024-02-16T11:48:36 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interview -->
+        <test-method is-config="true" signature="a16()[pri:0, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="a16" finished-at="2024-02-16T11:48:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a16 -->
+        <test-method is-config="true" signature="a14()[pri:0, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="a14" finished-at="2024-02-16T11:48:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a14 -->
+        <test-method signature="interview2()[pri:6, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="interview2" finished-at="2024-02-16T11:48:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interview2 -->
+        <test-method is-config="true" signature="a16()[pri:0, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="a16" finished-at="2024-02-16T11:48:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a16 -->
+        <test-method is-config="true" signature="a14()[pri:0, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="a14" finished-at="2024-02-16T11:48:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a14 -->
+        <test-method signature="interview3()[pri:6, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="interview3" finished-at="2024-02-16T11:48:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interview3 -->
+        <test-method is-config="true" signature="a16()[pri:0, instance:Testng.Groups@6f01b95f]" started-at="2024-02-16T11:48:36 IST" name="a16" finished-at="2024-02-16T11:48:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a16 -->
+      </class> <!-- Testng.Groups -->
+    </test> <!-- example_test2 -->
+  </suite> <!-- example2 -->
+</testng-results>
